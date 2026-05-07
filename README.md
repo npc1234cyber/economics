@@ -1,3 +1,21 @@
+Key Data (Economist-Level Interpretation for Application in Answers)
+
+The UK economy is experiencing very weak and stagnating growth, with an annual growth rate of 1.3% in 2025 and quarterly growth of 0.1%, indicating the economy is operating below its trend rate and likely in a negative output gap. Forecasts of 1.1% (OBR) and 0.8% (IMF) for 2026 suggest a prolonged slowdown and potential secular stagnation.
+
+Aggregate demand is weak due to high effective taxation (fiscal drag from frozen income tax thresholds), tight government spending, and very low consumer and business confidence. A high savings ratio (9.9%) reflects precautionary saving rather than strong incomes, further depressing consumption and AD.
+
+There are significant cost-push pressures on aggregate supply, including rising energy costs and wage growth (3.6%), shifting SRAS leftwards. Combined with weak productivity and low investment, this constrains long-run growth and creates stagflationary conditions. The UK’s potential growth rate has fallen to ~1%, reflecting structural supply-side weaknesses.
+
+The labour market shows emerging slack, with unemployment at 4.9% (increasingly cyclical) and an employment rate of 75%, below the government’s 80% target. A high economic inactivity rate (21%), driven by long-term sickness, reduces effective labour supply. Youth unemployment (16%) and a NEET rate of 12.8% indicate structural inefficiencies and skills mismatches.
+
+Inflation remains above target at 3.3%, with core inflation at 3.1% and inflation expectations at 5.4%, suggesting persistent inflationary pressures. Producer price inflation (2.6%) indicates ongoing cost pressures. This creates a policy trade-off for the Bank of England between controlling inflation and supporting growth, with the base rate at 3.75%.
+
+The UK has a current account deficit (1.1%) and a weak exchange rate (£1 = $1.35), contributing to imported inflation. The economy is heavily reliant on services (79% of GDP), making it vulnerable to external demand shocks and lacking sectoral diversification.
+
+Public finances are constrained, with a budget deficit of 4.5% of GDP (£138bn) and national debt at 93.1% of GDP, limiting fiscal policy flexibility. Rising bond yields (5.1%) increase the cost of borrowing, crowding out other government spending.
+
+Overall, the UK economy is characterised by weak aggregate demand, constrained aggregate supply, and structural inefficiencies, creating a high risk of prolonged low growth and stagflation.
+
 Paper 1:
 
 2 marker:
