@@ -635,3 +635,79 @@ Oligopolistic market structures are common in previously nationalised industries
 A further way the government may control oligopolists' behaviour is by making the market more contestable. Contestable markets have reduced barriers to entry and low sunk costs, allowing hit-and-run entry. The government may use policies such as providing advice for new entrants (e.g., via businesslink.com), reducing corporation tax for small businesses, or giving grants to business start-ups. Alternatively, governments may increase contestability internationally by reducing trade barriers and promoting freer trade, enabling low-cost firms abroad to compete. Such policies should prevent oligopolists from earning supernormal profits, forcing them to operate at a normal profit level and become more productively and allocatively efficient to deter hit-and-run entrants, shifting production from Q1 to Q2. However, this may have unintended consequences. It could only work correctly if the market being more contestable affected price and output decisions of oligopolists, which in a market with super high start-up costs would be unlikely. Furthermore, increased international competition may lead to a decline in domestic industries unable to compete with low-cost foreign competitors, resulting in high unemployment, etc. [Used another Oligopoly diagram, but this time prices are pushed to the bottom of the AC curve, where the firm is earning normal profits, not supernormal profits as before]
 
 When evaluating potential government policies, several factors must be considered. Firstly, is the market best left to its own mechanisms, or should it be intervened in? After all, Oligopolies are dynamically efficient and allow the UK to compete internationally in a number of industries. However, the tendency towards collusion and anti-competitive behaviour suggests that some degree of intervention is necessary. The extent to which policies work is dependent on the scope for government failure. It can be advantageous for oligopolists to cooperate, e.g., in the Toyota-Peugeot-Citroën small cars project. However, if policies restrict activities to the point that cooperation is limited, they may be unfavourable. Furthermore, competition policy can be tough on incumbents, high prices suggest monopoly power, stable prices indicate tacit collusion, and low prices indicate predatory pricing! Furthermore, because oligopoly is very uncertain, policies should be used in conjunction to be most effective.
+
+Four Mark Questions
+
+Q2: Explain how the data in Extract A (Figure 2) show that greater competition leads to lower prices in the market for generic drugs. 4 marks
+
+The data in extract A figure 2 show that greater competition leads to lower prices because as the number of generic drug manufacturers rises and therefore the amount of competition rises, the average price of generic drugs as a % of the patented price falls. For example, when there is only 1 generic drug manufacturer the average generic drug price is just over 60% of the patented price. However, when there are 2 manufacturers, this percentage falls to just over 45% of the patented price and when there are 6 manufacturers this percentage falls to under 10% of the patented price.
+
+Nine Mark Questions
+
+With the help of a diagram, explain how the equilibrium price and quantity of a pharmaceutical drug is likely to change after the patent on that drug expires. 9 marks
+
+The diagram above shows that, after the patent on a pharmaceutical drug expires, the supply of that drug increases at all price levels which is shown by the shift of S1 to S2. This happens because “After the monopoly patent expires, other companies can manufacture and market the same drug under its generic name” (B9). With more firms manufacturing the drug, supply increases at every price level. As a result, the price of the drug falls sharply from P1 to P2 in the diagram and the quantity demanded and supplied rises by a smaller percentage from Q1 to Q2. Inelastic demand for these essential drugs leads to the larger percentage fall in price and the smaller percentage rise in quantity.
+
+Fifteen Mark Questions
+
+Marks are awarded for:
+
+Defining key terms
+Applying economics knowledge
+Relevant diagrams explained clearly
+Clear chains of reasoning
+
+There are no evaluation marks, so do not include evaluation or a conclusion.
+
+Example:
+
+Explain why the use of petrol and diesel cars may be a source of market failure. (15 marks)
+
+Market failure occurs if a free, unregulated market leads to a misallocation of resources. Market failure can be complete (if none of a product is produced) or partial (if there is too much or too little produced to maximise the welfare of consumers). The use of petrol and diesel cars can lead to partial market failure because they are likely to be over-used; a reduction in use would increase consumer welfare.
+
+Using petrol and diesel cars means burning fossil fuels, which releases CO2, which in turn contributes to global warming. This effect has significant negative consumption externalities; spillover costs which are paid by others, not the person driving the car. These negative externalities are often ignored by consumers in a free market, and overconsumption and partial market failure results.
+
+The diagram above illustrates the partial market failure caused by the use of petrol and diesel cars. The market equilibrium will be at point A, where private benefits equal private costs. This is the market equilibrium assuming that consumers do not take account of the negative external costs they are causing others through global warming. The welfare loss is equal to area ABC. If the equilibrium were at point C where social costs and social benefits are equal, this welfare loss would not occur and consumer welfare would be higher. Reducing the use of petrol and diesel cars from Qp to Qs in the diagram would make consumers better off.
+
+The use of petrol and diesel cars also causes partial market failure because of other negative consumption externalities. Car use causes other forms of air pollution than CO2, which lead to breathing problems in urban areas. In addition, car use causes noise pollution, and also greater traffic congestion. All of these can cause the type of partial market failure explained above. Further, it can be argued that cars can only be consumed if they are produced, and more use leads to more production of cars. As a result, it can be argued that the use of petrol and diesel cars leads to more partial market failure since there are negative production externalities caused when cars are manufactured.
+
+The 25 mark essay questions usually look like:
+
+Assess the view that the government should intervene more in this market
+Evaluate policies the government could use to intervene in this market
+What the examiner wants
+Understanding of the question
+Two-sided analysis
+Economic terminology and diagrams
+Logical chains of reasoning
+Evaluation throughout and a final judgement
+Good chain of reasoning
+
+“The use of petrol and diesel cars can lead to partial market failure because cars are likely to be over-used in a free market. This over-use of cars will lead to a misallocation of resources and therefore market failure. Using petrol and diesel cars means burning fossil fuels, which releases CO2, which in turn contributes to global warming. Global warming has significant negative consumption externalities - costs which are paid by others, not the person driving the car. These negative externalities are often ignored by car drivers in a free market, which often leads to overconsumption and partial market failure.”
+
+“Collusion would be in the interests of large oligopoly firms because demand for medical drugs is “extremely inelastic” (extract C line 14). As a result, if the firms raise prices, demand will fall by a smaller percentage than price rises, and firms’ revenues and profits will increase. This potential problem of high prices for consumers also occurs when a patent is awarded and a monopoly is created for 20 years. In this situation, monopoly suppliers can be expected to charge very high prices for the drug they have developed. The extract includes much evidence of prices of drugs rising in both the USA and the UK e.g. “NHS spending on drugs in England has grown from £13bn in 2010-11 to £18.2bn in 2017-18”.
+
+Evaluation phrases
+“However…”
+“This is important because…”
+“However, this policy may not always work effectively because…”
+“However, the success of government intervention will depend on…”
+Strong introduction structure
+Define key terms
+Give an overall judgement
+
+Example:
+
+Assess the view that the market structure of the pharma. industry is damaging for consumers.
+
+The market structure of the pharmaceutical industry is part monopoly, part oligopoly. When a firm in this market has a patent on a drug which is the only treatment for a medical condition, then that firm is a monopoly – the only supplier in a part of the market. When that patent expires, other firms are able to enter the market and produce generic versions of the drug. In this situation the market is an oligopoly with a small number of large firms dominating supply. The structure of this industry would be damaging for consumers if the supply of drugs (including new and better drugs) was held back or if the prices of these drugs were much higher than they would be in a different market structure. My overall judgement is that the market structure of the pharmaceutical industry is not damaging to consumers.
+
+Strong evaluation examples
+
+“The decision of the government to intervene more in this market depends on a number of factors. Firstly, the government must decide whether policies already in place are working well enough. The evidence on this suggests………. Second, the government must consider its other economic objectives. If one objective is to reduce the government’s deficit then it may well choose to avoid any new subsidies and may prefer to implement new taxes.”
+
+“Larger firms earning high profits may be able to deliver higher levels of innovation and dynamic efficiency. However, it depends on how profits are used. If firms’ high profits are largely paid to shareholders in dividends then innovation and dynamic efficiency is unlikely to be achieved. In this situation, consumers won’t benefit”
+
+“Smaller firms typically face pressure from many competitors. As a result, they may have stronger incentives to cut costs and thus achieve productive efficiency than larger firms with bigger market shares. However, larger firms may be able to benefit from economies of scale. Larger firms may have less incentive to cut costs, but if they can gain from significant economies of scale they may still be able to produce at lower costs than smaller firms.”
+
+If the question is on government intervention and firms compete internationally, explain that international cooperation may be needed for policies to work effectively.
